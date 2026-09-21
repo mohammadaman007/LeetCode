@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/mohammadaman007/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/mohammadaman007/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [1480-running-sum-of-1d-array](https://github.com/mohammadaman007/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/mohammadaman007/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/mohammadaman007/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/mohammadaman007/LeetCode/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/mohammadaman007/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## String
@@ -42,4 +44,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/mohammadaman007/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+## Sorting
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/mohammadaman007/LeetCode/tree/master/0088-merge-sorted-array) |
 <!---LeetCode Topics End-->
