@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/mohammadaman007/LeetCode/tree/master/0009-palindrome-number) |
+| [0189-rotate-array](https://github.com/mohammadaman007/LeetCode/tree/master/0189-rotate-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/mohammadaman007/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2652-sum-multiples](https://github.com/mohammadaman007/LeetCode/tree/master/2652-sum-multiples) |
 ## Array
@@ -12,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/mohammadaman007/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/mohammadaman007/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/mohammadaman007/LeetCode/tree/master/0189-rotate-array) |
 | [1480-running-sum-of-1d-array](https://github.com/mohammadaman007/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/mohammadaman007/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Prefix Sum
@@ -36,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/mohammadaman007/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/mohammadaman007/LeetCode/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/mohammadaman007/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/mohammadaman007/LeetCode/tree/master/0189-rotate-array) |
 ## String
 |  |
 | ------- |
